@@ -38,7 +38,6 @@ Stocks that we picked are:
     <td>SPDR S&P 500 ETF Trust</td>
 </tr>  		
 </table>  
-	  
 <p>&nbsp;</p> 
 
 ___
@@ -61,7 +60,7 @@ ___
 - [CO2 Analysis](https://github.com/Nithy29/Responsible_Investor/blob/main/CO2%20Emissions/Global%20CEO%20Emissions%20.ipynb)
 
 <p>&nbsp;</p>
-  
+
 ### PowerPoint:
 
 - [Responsible Investor]()
