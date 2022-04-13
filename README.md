@@ -50,17 +50,15 @@ ___
 
 ### Data sources:
 - [BERKELEY EARTH](http://berkeleyearth.lbl.gov/regions/global-land)
-
 - [BP - Statistical Review of World Energy](https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/energy-economics/statistical-review/bp-stats-review-2021-co2-emissions.pdf)
-
 - [Zenodo](https://zenodo.org/record/5569235#.YldA8sjMKUm)
-
 - [kaggle](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data/code)
 
 <p>&nbsp;</p>
 
 ### Notebooks:
 - [Stock Analysis](https://github.com/Nithy29/Responsible_Investor/blob/main/analysis.ipynb)
+- [CO2 Analysis](https://github.com/Nithy29/Responsible_Investor/blob/main/CO2%20Emissions/Global%20CEO%20Emissions%20.ipynb)
 
 <p>&nbsp;</p>
   
