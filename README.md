@@ -37,24 +37,32 @@ Stocks that we picked are:
     <td>SPY</td>
     <td>SPDR S&P 500 ETF Trust</td>
 </tr>  		
-</table>
+</table>  
 	  
+<p>&nbsp;</p> 
 
-  
-  
+___
+
 **Team members:-**
         `Ali Ait,  Kevin Calderon, Hassan Mehmood, Sarvan Veluppillai`
 
-  
+<p>&nbsp;</p>
+
 ### Data sources:
 - [BERKELEY EARTH](http://berkeleyearth.lbl.gov/regions/global-land)
 
 - [BP - Statistical Review of World Energy](https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/energy-economics/statistical-review/bp-stats-review-2021-co2-emissions.pdf)
 
+- [Zenodo](https://zenodo.org/record/5569235#.YldA8sjMKUm)
+
+- [kaggle](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data/code)
+
+<p>&nbsp;</p>
 
 ### Notebooks:
 - [Stock Analysis](https://github.com/Nithy29/Responsible_Investor/blob/main/analysis.ipynb)
 
+<p>&nbsp;</p>
   
 ### PowerPoint:
 
