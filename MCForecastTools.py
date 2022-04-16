@@ -5,6 +5,7 @@ import os
 import alpaca_trade_api as tradeapi
 import datetime as dt
 import pytz
+from IPython.display import clear_output
 
 class MCSimulation:
     """
@@ -95,6 +96,7 @@ class MCSimulation:
         for n in range(self.nSim):
         
             if n % 10 == 0:
+                clear_output(wait=True)
                 print(f"Running Monte Carlo simulation number {n}.")
         
             # Create a list of lists to contain the simulated values for each stock
