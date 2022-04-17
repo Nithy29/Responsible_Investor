@@ -67,8 +67,9 @@ ___
 <p>&nbsp;</p>
 
 ### Notebooks:
-- [Stock Analysis](https://github.com/Nithy29/Responsible_Investor/blob/main/analysis.ipynb)
+- [Stock Analysis](https://github.com/Nithy29/Responsible_Investor/blob/main/Analysis.ipynb)
 - [CO2 Analysis](https://github.com/Nithy29/Responsible_Investor/blob/main/CO2%20Emissions/Global%20CO2%20Emissions%20%26%20Temperature%20Change.ipynb)
+- [Yahoo Finance Analysis](https://github.com/Nithy29/Responsible_Investor/blob/main/Yahoo%20Finance.ipynb)
 
 <p>&nbsp;</p>
 
