@@ -76,6 +76,7 @@ ___
 
 - [Responsible Investor]()
 
+___
 
 ### VOILA Installation notes
 VOILA can be instaaled through conda
