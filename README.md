@@ -67,11 +67,30 @@ ___
 <p>&nbsp;</p>
 
 ### Notebooks:
-- [Stock Analysis](https://github.com/Nithy29/Responsible_Investor/blob/main/analysis.ipynb)
-- [CO2 Analysis](https://github.com/Nithy29/Responsible_Investor/blob/main/CO2%20Emissions/Global%20CEO%20Emissions%20.ipynb)
+- [Stock Analysis](https://github.com/Nithy29/Responsible_Investor/blob/main/Analysis.ipynb)
+- [CO2 Analysis](https://github.com/Nithy29/Responsible_Investor/blob/main/CO2%20Emissions/Global%20CO2%20Emissions%20%26%20Temperature%20Change.ipynb)
+- [Yahoo Finance Analysis](https://github.com/Nithy29/Responsible_Investor/blob/main/Yahoo%20Finance.ipynb)
 
 <p>&nbsp;</p>
 
 ### PowerPoint:
 
 - [Responsible Investor]()
+
+___
+
+### VOILA Installation notes
+VOILA can be instaaled through conda
+- conda install -c conda-forge jupyterlab voila-gridstack
+
+or PIP install
+- pip install voila
+
+Once it is install, change directory to the project folder and issue
+- jupter notebook
+
+Select the jupyter lab file and lunch 'VOILA' ![image](https://user-images.githubusercontent.com/98414364/163704316-5818fb57-1592-410f-96bb-0461d0a08ac9.png)
+ from the jupyter notebook
+
+
+

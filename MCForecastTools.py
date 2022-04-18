@@ -5,6 +5,7 @@ import os
 import alpaca_trade_api as tradeapi
 import datetime as dt
 import pytz
+from IPython.display import clear_output, display
 
 class MCSimulation:
     """
@@ -25,7 +26,8 @@ class MCSimulation:
     simulated_return : pandas.DataFrame
         Simulated data from Monte Carlo
     confidence_interval : pandas.Series
-        the 95% confidence intervals for simulated final cumulative returns
+        the 95% confidence intervals for simulated final cumulative returns    
+
         
     """
     
@@ -71,6 +73,7 @@ class MCSimulation:
         self.nSim = num_simulation
         self.nTrading = num_trading_days
         self.simulated_return = ""
+
         
     def calc_cumulative_return(self):
         """
@@ -93,7 +96,9 @@ class MCSimulation:
         for n in range(self.nSim):
         
             if n % 10 == 0:
-                print(f"Running Monte Carlo simulation number {n}.")
+                clear_output(wait=True)
+                #print(f"Running Monte Carlo simulation number {n}.")
+                display(f"Running Monte Carlo simulation number {n}.")
         
             # Create a list of lists to contain the simulated values for each stock
             simvals = [[p] for p in last_prices]
@@ -121,7 +126,6 @@ class MCSimulation:
         
         # Calculate 95% confidence intervals for final cumulative returns
         self.confidence_interval = portfolio_cumulative_returns.iloc[-1, :].quantile(q=[0.025, 0.975])
-        
         return portfolio_cumulative_returns
     
     def plot_simulation(self):

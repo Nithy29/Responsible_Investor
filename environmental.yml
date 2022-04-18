@@ -1,0 +1,17 @@
+name: Team 2 Responsible Investor
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - os
+  - requests
+  - matplotlib
+  - dotenv
+  - pandas
+  - alpaca_trade_api
+  - MCForecastTools
+  - datetime
+  - ipywidgets
+  - yfinance
+  - IPython.display
+  - panel.interact
