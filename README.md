@@ -1,6 +1,6 @@
 # The Responsible Investor
 
-## Hello and welcome to our group project: The Responsible Investor
+## Hello and Welcome to our group project! 
 
 For this project, we want to show our investors the negative impact of CO2 emmissions on our planet and provide them with a portfolio of environmentaly friendly companies that is still lucrative. 
 
