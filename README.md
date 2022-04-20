@@ -26,7 +26,6 @@ ___
 
 ### Data sources:
 - [BERKELEY EARTH](http://berkeleyearth.lbl.gov/regions/global-land)
-- [BP - Statistical Review of World Energy](https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/energy-economics/statistical-review/bp-stats-review-2021-co2-emissions.pdf)
 - [Zenodo](https://zenodo.org/record/5569235#.YldA8sjMKUm)
 - [kaggle](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data/code)
 
@@ -42,21 +41,6 @@ ___
 ### PowerPoint:
 
 - [Responsible Investor]()
-
-___
-
-### VOILA Installation notes
-VOILA can be instaaled through conda
-- conda install -c conda-forge jupyterlab voila-gridstack
-
-or PIP install
-- pip install voila
-
-Once it is install, change directory to the project folder and issue
-- jupter notebook
-
-Select the jupyter lab file and lunch 'VOILA' ![image](https://user-images.githubusercontent.com/98414364/163704316-5818fb57-1592-410f-96bb-0461d0a08ac9.png)
- from the jupyter notebook
 
 
 
