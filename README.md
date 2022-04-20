@@ -33,7 +33,7 @@ ___
 
 ### Notebooks:
 - [Stock Analysis](https://github.com/Nithy29/Responsible_Investor/blob/main/Notebook%20Files/Analysis.ipynb)
-- [CO2 Analysis](https://github.com/Nithy29/Responsible_Investor/blob/main/Notebook%20Files/Global%20Warming%20Analysis.ipynb)
+- [Global Warming Analysis](https://github.com/Nithy29/Responsible_Investor/blob/main/Notebook%20Files/Global%20Warming%20Analysis.ipynb)
 - [Responsible Investor ToolBox](https://github.com/Nithy29/Responsible_Investor/blob/main/Notebook%20Files/Responsible%20Investor%20ToolBox.ipynb)
 
 <p>&nbsp;</p>
